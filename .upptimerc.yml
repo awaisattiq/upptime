@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: EBX API
     url: https://api.etihadtown.com.pk/
+  - name: Strapi Server
+    url: http://49.12.146.184:1337/
 
 
 
@@ -19,8 +21,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
