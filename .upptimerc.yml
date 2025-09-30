@@ -15,7 +15,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /ebizwatch
-  logoUrl: https://www.ebizlogix.com/img/newlogo.png
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: eBizWatch
   introTitle: "**ebizWatch** "
 
