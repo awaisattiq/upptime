@@ -3,7 +3,7 @@ owner: awaisattiq # Your GitHub organization or username, where this repository 
 repo: upptime # The name of this repository
 
 sites:
-  - name: EBX API
+  - name: Mobile API
     url: https://api.etihadtown.com.pk/
   - name: Strapi Server
     url: http://49.12.146.184:1337/
