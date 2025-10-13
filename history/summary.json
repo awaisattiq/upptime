@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 755,
-    "timeDay": 556,
-    "timeWeek": 605,
-    "timeMonth": 755,
-    "timeYear": 755,
+    "time": 746,
+    "timeDay": 607,
+    "timeWeek": 610,
+    "timeMonth": 746,
+    "timeYear": 746,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/49.12.146.184.ico",
     "slug": "strapi-server",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "96.43%",
+    "uptimeDay": "55.46%",
+    "uptimeWeek": "93.64%",
+    "uptimeMonth": "96.43%",
+    "uptimeYear": "96.43%",
     "time": 269,
-    "timeDay": 204,
-    "timeWeek": 242,
+    "timeDay": 0,
+    "timeWeek": 240,
     "timeMonth": 269,
     "timeYear": 269,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-13": 88,
+      "2025-10-12": 554
+    }
   }
 ]
