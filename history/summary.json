@@ -22,19 +22,19 @@
     "url": "http://49.12.146.184:1337/",
     "icon": "https://icons.duckduckgo.com/ip3/49.12.146.184.ico",
     "slug": "strapi-server",
-    "status": "down",
-    "uptime": "96.43%",
-    "uptimeDay": "55.46%",
-    "uptimeWeek": "93.64%",
-    "uptimeMonth": "96.43%",
-    "uptimeYear": "96.43%",
+    "status": "up",
+    "uptime": "94.78%",
+    "uptimeDay": "33.79%",
+    "uptimeWeek": "90.54%",
+    "uptimeMonth": "94.78%",
+    "uptimeYear": "94.78%",
     "time": 269,
-    "timeDay": 0,
-    "timeWeek": 240,
+    "timeDay": 262,
+    "timeWeek": 243,
     "timeMonth": 269,
     "timeYear": 269,
     "dailyMinutesDown": {
-      "2025-10-13": 88,
+      "2025-10-13": 400,
       "2025-10-12": 554
     }
   }
